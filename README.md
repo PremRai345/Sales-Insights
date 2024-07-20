@@ -5,6 +5,7 @@ The project aims to unlock sales insights that were not visible before to the sa
 
 # Stackholders
 The stakeholders are the Sales Director, Marketing, Customer Service, Data and Analytics, and IT.
+
 ![Sales Insights Power BI](https://github.com/user-attachments/assets/f1dc7e3b-fee4-4d0b-a8ba-13618de9adb4)
 
 # Tools
