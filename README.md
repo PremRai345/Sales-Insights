@@ -13,7 +13,8 @@ The stakeholders are the Sales Director, Marketing, Customer Service, Data and A
 MySQL, PowerBI
 
 # End Result
-Power BI has created an automated dashboard that provides quick and latest sales insights to support data-driven decision-making.
+Power BI has created an automated dashboard that provides quick and latest sales insights to support data-driven decision-making. 
+
 Dashboard link: https://app.powerbi.com/groups/me/reports/4dad9ee4-88df-42ab-87ba-2e20f463cd1e/ac835bf04c09252a95e8?experience=power-bi
 
 # Sucess Criteria
