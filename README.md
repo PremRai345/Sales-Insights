@@ -1,7 +1,6 @@
 # Project Overview
 AtliQ is a hardware company which supplies computer hardware and peripherals to clients across India and they supply all equipment. It has its head office in Delhi and they have many regional offices throughout India. The company is facing the problem of tracking sales in a dynamically growing market. The director of the company is facing a problem in getting data from Excel so in this project data files from the company have been taken and visualized.
 
-Dashboard link: https://app.powerbi.com/groups/me/reports/4dad9ee4-88df-42ab-87ba-2e20f463cd1e/ac835bf04c09252a95e8?experience=power-bi
 # Aims
 The project aims to unlock sales insights that were not visible before to the sales team for making decision support and automate them to reduce manual time spent in data gathering.
 
@@ -15,6 +14,7 @@ MySQL, PowerBI
 
 # End Result
 Power BI has created an automated dashboard that provides quick and latest sales insights to support data-driven decision-making.
+Dashboard link: https://app.powerbi.com/groups/me/reports/4dad9ee4-88df-42ab-87ba-2e20f463cd1e/ac835bf04c09252a95e8?experience=power-bi
 
 # Sucess Criteria
 The dashboard has sales order insights with the latest data available. 
