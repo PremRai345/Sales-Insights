@@ -18,7 +18,7 @@ Power BI has created an automated dashboard that provides quick and latest sales
 Dashboard link: https://app.powerbi.com/groups/me/reports/4dad9ee4-88df-42ab-87ba-2e20f463cd1e/ac835bf04c09252a95e8?experience=power-bi
 
 # Sucess Criteria
-The dashboard has sales order insights with the latest data available. 
-The sales team can make better decisions and prove 10% cost savings of total spend.
-Sales teams can make better decisions and Sales analyst stop data gathering manually to save 20% of their business time and reinvest it in value-added activity.
+The dashboard has sales order insights with the latest data available.   
+The sales team can make better decisions and prove 10% cost savings of total spend.  
+Sales teams can make better decisions and Sales analyst stop data gathering manually to save 20% of their business time and reinvest it in value-added activity.  
 
